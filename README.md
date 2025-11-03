@@ -4,6 +4,12 @@ A collection of beautiful color themes for [Warp Terminal](https://www.warp.dev/
 
 ## Available Themes
 
+### Fancy Ubuntu
+
+Ubuntu theme with beautiful purple-to-darker gradients and vibrant green accents.
+
+![Fancy Ubuntu Theme](screenshots/fancy-ubuntu.png)
+
 ### Ubuntu
 
 A classic Ubuntu-inspired theme with warm purple background and vibrant accent colors.
