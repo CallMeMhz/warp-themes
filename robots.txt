@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://warp-themes.github.io/sitemap.xml
