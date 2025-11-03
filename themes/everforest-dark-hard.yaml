@@ -1,0 +1,32 @@
+# Everforest Dark Hard theme for Warp
+# A green-based color scheme designed to be warm and comfortable
+# Original: https://github.com/sainnhe/everforest
+
+name: Everforest Dark Hard
+author: sainnhe
+
+accent: "#a7c080"
+background: "#1e2326"
+foreground: "#d3c6aa"
+
+details: darker
+
+terminal_colors:
+  normal:
+    black: "#7a8478"
+    red: "#e67e80"
+    green: "#a7c080"
+    yellow: "#dbbc7f"
+    blue: "#7fbbb3"
+    magenta: "#d699b6"
+    cyan: "#83c092"
+    white: "#f2eede"
+  bright:
+    black: "#a6b0a0"
+    red: "#f85552"
+    green: "#8da101"
+    yellow: "#dfa000"
+    blue: "#3a94c5"
+    magenta: "#df69ba"
+    cyan: "#35a77c"
+    white: "#fffbef"
